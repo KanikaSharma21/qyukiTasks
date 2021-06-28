@@ -35,7 +35,7 @@ covid19Site
 
 ## solution of this task is in the covidTrackingProject.
 
-In the solution I have madea new api and have used two remote apis provided by covid tracking for fetching the respective data:-
+In the solution I have made a new api which is in the about of the repo and have used two remote apis provided by covid tracking for fetching the respective data:-
 
 1> States Current API
 2> the States Info API
