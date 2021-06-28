@@ -1,0 +1,6 @@
+{
+  "environment": "prod",
+  "app_name": "Covid19App",
+  "baseUrl": "https://covidtracking.com/api/",
+  "port": "7000"
+}

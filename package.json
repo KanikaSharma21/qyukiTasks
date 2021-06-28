@@ -1,0 +1,21 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "description": "api for data of states according to covid 19",
+  "main": "covidTrackingProject/index.js",
+  "scripts": {
+    "start": "node covidTrackingProject/index.js",
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "Kanika",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "compression": "^1.7.4",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^5.12.15",
+    "winston": "^2.4.0"
+  }
+}
